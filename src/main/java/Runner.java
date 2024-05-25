@@ -10,5 +10,8 @@ public class Runner {
 
         //versiyon 3
         System.out.println("Gecmise yolculuk");
+
+        //versiyon 4
+        System.out.println("hi");
     }
 }
